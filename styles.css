@@ -1,6 +1,20 @@
 *{
-    margin: 0; /*deixa a margem esquerda e direita nula */
+    margin: 0; /*deixa a margem esquerda e direita nula*/
     padding: 0; /*deixa a margem superior e inferior nula*/
-    box-sizing: border-box; /*cria uma caixa invisivel para o corpo do site/
+    box-sizing: border-box; /* cria uma caixa invisivel para o corpo do site*/
     
-}
+    }
+    
+    .topo{
+    background-color: chocolate; /*cor do fundo do topo do site*/
+    height: 15vh; /* tamanho do topo do site 15% da tela */
+    
+    }
+    .conteúdo{
+    background-color: aquamarine; /*cor do fundo do topo do site*/
+    height: 85vh; /*resto do site*/
+    
+    
+    
+    
+    }
