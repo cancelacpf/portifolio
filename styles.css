@@ -6,7 +6,7 @@
     }
     
     .topo{
-    background-color: chocolate; /*cor do fundo do topo do site*/
+    background-color: rgb(240, 17, 17); /*cor do fundo do topo do site*/
     height: 15vh; /* tamanho do topo do site 15% da tela */
     
     }
